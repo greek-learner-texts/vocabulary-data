@@ -22,3 +22,4 @@ This is raw, unprocessed data from other sources.
 * `gltp5000.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) prepared by James Tauber very recently with the help of Seumas Macdonald
 * `gltp5000-ge-campbell.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) prepared by James Tauber very recently with the help of Seumas Macdonald
 * `gltp5000-dcc.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) prepared by James Tauber very recently
+* `dcc-minus-gltp5000.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) and shows DCC entries not in GLTP5000; prepared by James Tauber very recently

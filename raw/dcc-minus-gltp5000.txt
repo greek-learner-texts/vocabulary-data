@@ -1,0 +1,7 @@
+DCC HEADWORD|DCC DEFINITION|DCC POS|DCC SEMANTIC GROUP|DCC RANK
+μόνον|only|adverb|Conjunctions/Adverbs|109
+πλέον|more, rather|adverb|Measurements and Numerals|353
+πλέων πλέον|more, larger (comp. of πολύς)|adjective: 3rd declension -ων, -ον|Measurements and Numerals|354
+τριακοστός –ή –όν|thirtieth|adjective: numeral|Measurements and Numerals|517
+εἰκοστός –ή –όν|twentieth|adjective: numeral|Measurements and Numerals|522
+ἑκατοστός –ή –όν|hundredth|adjective: numeral|Measurements and Numerals|524
