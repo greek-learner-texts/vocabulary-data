@@ -1,0 +1,28 @@
+7|θεατής||maybe because it cognates so well with the verb
+35|αὐτόμολος||appears in both Xenophon and Thucy 4, hence his inclusion
+141|Ἕλλην|proper names not in our list
+143|Ζεύς|proper names not in our list
+146|θήρ
+191|δωροδοκία||I would expect in Demosthenes
+200|ἑταῖρα||suspect Lysias is the culprit here
+296|ἥβη
+357|προαίρεσις||I suspect Demosthenes again
+368|γραῦς||hmm?
+370|Ἑλλάς|proper names not in our list
+431|θάρρος/θάρσος||431 and 433 are alternatives. and reflect that our corpus is a bit biased against military terms.
+433|θράσος||431 and 433 are alternatives. and reflect that our corpus is a bit biased against military terms.
+441|ξίφος||also, our corpus is not very military
+459|δρᾶμα||I wonder if Campbell includes this because it's transparent in meaning?
+544|ὠμός||unclear to me what Campbell includes
+634|ἀξιόλογος||unclear inclusion by Campbell, but Thucydides uses it a little.
+650|εὐδόκιμος||unsure
+657|ὀλίγωρος||probably in his oratory selection
+664|ταλαίπωρος||unsure
+670|ἀήθης||a couple of times in Thucyd 4, and somewhat transparent from its composition
+674|ἀναιδής
+705|παχύς
+741|ἄλλοσε
+789|ἐπίτηδες|could mean ἐπιτηδές but that's not in our list anyway
+907|δια-μέλλειν|biased in Campbell by Thucydides?
+1246|ληρεῖν
+1421|ἐπειδή|treated as ἐπει δή in our lemmatisation?
