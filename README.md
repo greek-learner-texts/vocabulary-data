@@ -16,6 +16,10 @@ and this spreadsheet:
 
 * https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit?usp=sharing
 
+Also potentially:
+
+* https://github.com/dcthree/ancient-greek-lexica
+
 
 ## Terminology
 
