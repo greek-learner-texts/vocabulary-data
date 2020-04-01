@@ -11,3 +11,6 @@ This is raw, unprocessed data from other sources.
 * `gvt-extras.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and lists words common in the overall GVT corpus that were missing in the GVT Core 2000; prepared by James Tauber
 * `dcc-major80-mapping.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and maps between the [DCC Core Vocabulary](http://dcc.dickinson.edu/greek-core-list) and Major80 with comments; prepared by James Tauber, DCC list from Christopher Francese and others at Dickinson College
 * `lexicon2018.yaml` comes from [jtauber/major80](https://github.com/jtauber/major80) and attempts to consolidate all of the above; prepared by James Tauber
+* `major80-nominals.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and begins to classify nominals; done by James Tauber and Seumas Macdonald
+* `major80-verbs1.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and begins to classify verbs in one way; done by James Tauber
+* `major80-verbs2.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and begins to classify verbs in another way; done by James Tauber

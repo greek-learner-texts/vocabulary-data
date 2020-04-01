@@ -1,0 +1,585 @@
+## NOUNS
+
+
+# abstract
+
+ἀγάπη -ης, ἡ love, charity
+ἄγαλμα -ατος, τό glory, statue  # also object; SM: I think of this more as the object, with the later meaning
+ἀδίκημα -ατος, τό a wrong, an injustice
+αἰδώς αἰδοῦς, ἡ shame
+αἰτία -ας, ἡ cause
+ἄλγος -ους, τό pain
+ἀλήθεια -ας, ἡ truth
+ἀνάγκη -ης, ἡ necessity
+ἀνάθημα -ατος, τό a curse
+ἀπορία -ας, ἡ helplessness
+ἀρετή -ῆς, ἡ excellence
+ἀριθμός -οῦ, ὁ number
+ἀσφάλεια -ας, ἡ security
+ἄτη -ης, ἡ blindness, destruction
+ἀρχή -ῆς, ἡ beginning, rule
+βασιλεία -ας, ἡ kingdom  # or place?; SM: both?
+βία -ας, ἡ force
+βίος -ου, ὁ life
+βοήθεια -ας, ἡ help
+γῆρας -ως, τό old age
+γλῶσσα -ης, ἡ tongue, language  # or body part?; SM: both
+γνώμη -ης, ἡ thought, intelligence, opinion
+δέος -ους, τό fear
+διάνοια -ας, ἡ thought, intention
+διαθήκη -ης, ἡ arrangement, last will and testament  # or is this a physical thing?; SM: both.
+δικαιοσύνη -ης, ἡ justice
+δίκη -ης, ἡ justice, lawsuit
+δόγμα -ατος, τό opinion, dogma
+δόλος -ου, ὁ trick
+δόξα -ης, ἡ glory, opinion
+δύναμις -εως, ἡ power
+ἔθος -ους, τό custom, character
+εἶδος -ους, τό form
+εἰρήνη -ης, ἡ peace
+ἐλευθερία -ας, ἡ freedom
+ἐλπίς -ίδος, ἡ hope
+ἐξουσία -ας, ἡ authority
+ἐπιμέλεια -ας, ἡ care, attention
+ἐπιστήμη -ης, ἡ knowledge
+ἔργον -ου, τό work
+ἔρις -ιδος, ἡ strife
+ἔρως -ωτος, ὁ love
+εὔνοια -ας, ἡ good-will
+ἡδονή -ῆς, ἡ pleasure
+ἡσυχία -ας, ἡ quiet
+θάνατος -ου, ὁ death
+θέρμος -ου, ὁ heat
+θυσία -ας, ἡ sacrifice  # abstract concept or event?; SM: both.
+ἱστορία -ας, ἡ inquiry
+ἰσχύς ἰσχύος, ἡ strength
+κάλλος -ους, τό beauty
+κίνδυνος -ου, ὁ danger
+κλέος -ους, τό glory
+κόσμος -ου, ὁ order
+κράτος -ους, τό strength
+κρίσις -εως, ἡ judgment, decision
+λιμός -οῦ, ὁ/ἡ hunger
+μανία -ας, ἡ insanity
+μαρτυρία -ας, ἡ witness, testimony, evidence  # or event?; SM: more abstract, but also event
+μέγεθος -ους, τό magnitude
+μέρος -ους, τό part
+μῆκος -ους, τό length
+μισθός -οῦ, ὁ pay
+μνήμη -ης, ἡ memory
+μοῖρα -ας, ἡ fate
+μῦθος -ου, ὁ story  # or event?
+μυριάς -άδος, ἡ 10,000, a countless amount
+νίκη -ης, ἡ victory
+νόμος -ου, ὁ custom, law
+νοῦς νοῦ, ὁ mind
+νόσος -ου, ὁ disease
+ὄνομα -ατος, τό name
+ὀργή -ῆς, ἡ anger
+ὅρκος -ου, ὁ oath
+οὐσία -ας, ἡ substance, property
+ὄψις -εως, ἡ sight, appearance
+πάθος -ους, τό suffering
+παρασκευή -ῆς, ἡ preparation
+πίστις -εως, ἡ trust
+πλοῦτος -ου, ὁ wealth
+πολιτεία -ας, ἡ constitution, citizenship, republic
+προαίρεσις -εως, ἡ choice, purpose
+προθυμία -ας, ἡ eagerness
+πρόνοια -ας, ἡ foresight
+πρόφασις -εως, ἡ excuse
+ῥύθμος -ου, ὁ rhythm
+ῥώμη -ης, ἡ strength
+σημεῖον -ου, τό sign  # ?; SM: also object
+σοφία -ας, ἡ wisdom
+σπουδή -ῆς, ἡ eagerness
+σχολή -ῆς, ἡ leisure
+σωτηρία -ας, ἡ safety
+τάξις -εως, ἡ arrangement, order
+τάχος -ους, τό speed
+τεκμήριον -ου, τό evidence
+τελευτή -ῆς, ἡ completion, death
+τέλος -ους, τό end
+τέχνη -ης, ἡ art, skill
+τιμή -ῆς, ἡ value
+τιμωρία -ας, ἡ help, vengeance
+τόπος -ου, ὁ place, topic
+τρόπος -ου, ὁ way  # ?; SM: can be concrete
+τυραννίς -ίδος, ἡ tyranny
+τύχη -ης, ἡ luck
+ὕβρις -εως, ἡ offense, disrespect, arrogance
+ὑπερβολή -ῆς, ἡ excess
+φιλία -ας, ἡ love, friendship
+φόβος -ου, ὁ fear
+φρήν φρενός, ἡ mind
+χάρις -ιτος, ἡ grace, favor
+χρεία -ας, ἡ use
+
+
+# event
+
+γάμος -ου, ὁ wedding, marriage
+δεῖπνον -ου, τό feast
+μάχη -ης, ἡ battle
+ναυμαχία -ας, ἡ sea battle
+πολιορκία -ας, ἡ siege
+πόλεμος -ου, ὁ war
+πορεία -ας, ἡ journey
+στόλος -ου, ὁ expedition
+στρατεία -ας, ἡ expedition, campaign
+στράτευμα -ατος, τό expedition, campaign
+
+
+# object or substance
+
+ἄγαλμα -ατος, τό glory, statue
+ἆθλον -ου, τό prize  # ?
+γέρας -ως, τό prize  # ?
+αἷμα -ατος, τό blood
+ἀργύριον -ου, τό silver, a silver coin
+ἅρμα -ατος, τό chariot
+ἀσπίς -ίδος, ἡ a round shield
+βέλος -ους, τό missile, weapon
+βίβλος -ου, ὁ book
+βωμός -οῦ, ὁ altar
+γράμμα -ατος, τό letter
+δόρυ δόρατος, τό spear
+
+
+# natural objects (for places, see below)
+
+ἄνθος -ους, τό flower
+δένδρον -ου, τό tree
+
+
+# human or animal
+
+ἀνήρ ἀνδρός, ὁ man
+ἄνθρωπος -ου, ὁ/ἡ human being
+βοῦς βοός, ὁ/ἡ ox
+γυνή γυναικός, ἡ woman
+
+
+# relationship, role or occupation
+
+ἄγγελος -ου, ὁ messenger, angel
+ἀδελφή -ῆς, ἡ sister
+ἀδελφός -οῦ, ὁ brother
+αἴχμάλωτος -ου, ὁ prisoner of war
+ἄναξ -ακτος, ὁ ruler, lord
+ἄρχων -οντος, ὁ ruler, archon
+βασιλεύς βασίλεως, ὁ king
+βροτός -οῦ, ὁ mortal
+γέρων -οντος, ὁ old man
+
+
+# natural places
+
+γαῖα -ας, ἡ earth
+γῆ γῆς, ἡ earth
+ἤπειρος -ου, ἡ the land
+θάλασσα -ης, ἡ the sea
+κόλπος -ου, ὁ womb, bay  # also body part?; SM: yes
+λίμνη -ης, ἡ pool, swamp
+νῆσος -ου, ἡ island
+ὄρος ὄρου, ὁ mountain, hill
+ὅρος ὅρου, ὁ boundary
+οὐρανός -οῦ, ὁ sky, heaven
+ποταμός -οῦ, ὁ river
+χώρα -ας, ἡ land
+
+# astronomical and weather
+
+ἄνεμος -ου, ὁ wind
+
+
+# man-made places
+
+ἀγορά -ᾶς, ἡ market place
+ἄστυ ἄστεως, τό town
+δικαστήριον -ου, τό court
+δῶμα -ατος, τό house
+ἐκκλησία -ας, ἡ assembly  # also group?
+ἱερόν -οῦ, τό temple
+κώμη -ης, ἡ village  # also group?
+λιμήν -ένος, ὁ harbor  # is this always man-made?; SM: unsure, I would think natural harbours also.
+μέγαρον -ου, τό a large room
+νεώς νεώ, ὁ temple
+ὁδός -οῦ, ἡ road
+οἰκία -ας, ἡ house, household
+οἶκος -ου, ὁ house
+πατρίς -ίδος, ἡ fatherland
+πόλις -εως, ἡ a city
+στρατόπεδον -ου, τό camp
+
+
+
+βουλή -ῆς, ἡ plan, council
+γένος -ους, τό race, family
+
+εἰκός εἰκότος, τό proper, probable  # how is this a noun?; SM: it's rarely found as a noun, much more often idiomatic constructions
+
+
+δαίμων -ονος, ὁ spirit, god, demon
+δεσπότης -ου, ὁ master
+δῆμος -ου, ὁ people
+δίαιτα -ης, ἡ lifestyle
+δικαστής -οῦ, ὁ judge, juror
+δοῦλος -ου, ὁ slave
+δῶρον -ου, τό gift
+ἔαρ ἔαρος, τό spring
+ἔθνος -ους, τό nation
+εἰκών -όνος, ἡ image
+ἔλεγος -ου, ὁ a lament
+ἐνιαυτός -οῦ, ὁ year
+ἐπιστολή -ῆς, ἡ message, letter
+ἔπος -ους, τό word
+ἐσθής -ῆτος, ἡ clothing
+ἑσπέρα -ας, ἡ evening
+ἑταῖρος -ου, ὁ companion
+ἔτης -ου, ὁ kin, cousin
+ἔτος -ους, τό year
+Ζεύς Διός, ὁ Zeus
+ἡγεμών -όνος, ὁ leader
+ἡλικία -ας, ἡ time of life, age
+ἥλιος -ου, ὁ sun
+ἡμέρα -ας, ἡ day
+ἥρως ἥρωος, ὁ hero
+θεά -ᾶς, ἡ goddess
+θεός -οῦ, ὁ god
+θρόνος -ου, ὁ seat
+θυγάτηρ θυγατρός, ἡ daughter
+θυμός -οῦ, ὁ soul, spirit
+θύρα -ας, ἡ door
+θώραξ -ακος, ὁ breastplate
+ἰατρός -οῦ, ὁ doctor
+ἰδιώτης -ου, ὁ a private person, an individual
+ἱερεύς -έως, ὁ priest
+ἱππεύς -έως, ὁ horseman
+ἵππος -ου, ὁ horse
+καιρός -οῦ, ὁ the right time
+καρδία -ας, ἡ heart
+καρπός -οῦ, ὁ fruit
+κέρας -ατος, τό horn
+κεφαλή -ῆς, ἡ head
+κῆρυξ -υκος, ὁ messenger
+κόρη -ης, ἡ girl
+κριτής -ου, ὁ judge
+κύκλος -ου, ὁ circle
+κύριος -ου, ὁ lord, master
+κύων κυνός, ὁ/ἡ dog
+λεώς λεώ, ὁ the people
+λίθος -ου, ὁ stone
+λόγος -ου, ὁ word
+λόφος -ου, ὁ crest (esp. of a helmet), mane, ridge
+μάντις -εως, ὁ prophet
+μάρτυς μάρτυρος, ὁ/ἡ witness
+μήτηρ μητρός, ἡ mother
+μηχανή -ῆς, ἡ device
+μνᾶ μνᾶς, ἡ mina, = 100 drachma = 1/60 talent
+ναῦς νεώς, ἡ ship
+νεανίας -ου, ὁ young man
+νεκρός -οῦ, ὁ corpse
+νύμφη -ης, ἡ bride
+νύξ νυκτός, ἡ night
+ξένος -ου, ὁ foreigner, stranger
+ξύλον -ου, τό wood
+οἰκέτης -ου, ὁ servant
+ὁπλίτης -ου, ὁ heavily-armed soldier, hoplite
+ὅπλον -ου, τό weapon, tool
+ὁρμή -ῆς, ἡ attack
+ὀφθαλμός -οῦ, ὁ eye
+ὄχλος -ου, ὁ crowd, mob
+παῖς παιδός, ὁ/ἡ child
+παρθένος -ου, ἡ girl
+πατήρ πατρός, ὁ father
+πεδίον -ου, τό plain
+πέτρα -ας, ἡ rock
+πλῆθος -ους, τό crowd
+πλοῖον -ου, τό ship
+πνεῦμα -ατος, τό wind, breath
+ποιητής -οῦ, ὁ creator, poet
+πολίτης -ου, ὁ citizen
+πόνος -ου, ὁ work
+πούς ποδός, ὁ foot
+πρᾶγμα -ατος, τό thing
+πρᾶξις -εως, ἡ action
+πρεσβευτής -οῦ, ὁ old man, ambassador (rare in pl.)
+πρέσβυς, πρέσβεως, ὁ ambassador (esp. in pl.), old man
+πρόγονος -ου, ὁ ancestor
+πρόσωπον -ου, τό face
+προφήτης -ου, ὁ prophet
+πτερόν -οῦ, τό wing
+πύλη -ης, ἡ gate
+πῦρ πυρός, τό fire
+ῥήτωρ ῥήτορος, ὁ orator, speaker, politician
+σελήνη -ης, ἡ moon
+σῖτος -ου, ὁ grain
+σκήνη -ης, ἡ tent, stage
+σπονδή -ῆς, ἡ libation
+στάδιον -ου, τό stade = 606.75 feet = roughly 1/8 of a mile
+στάσις -εως, ἡ revolution  # in what sense?; SM: in the rebellion
+στέρνον -ου, τό chest
+στόμα -ατος, τό mouth
+στρατηγός -οῦ, ὁ general
+στρατιά -ᾶς, ἡ army
+στρατιώτης -ου, ὁ soldier
+στρατός -οῦ, ὁ army
+συγγνώμη -ης, ἡ pardon
+συνθήκη -ης, ἡ composition, contract
+συμμαχία -ας, ἡ alliance
+συμφορά -ᾶς, ἡ accident
+σχῆμα -ατος, τό form
+σῶμα -ατος, τό body
+τάλαντον -ου, τό an amount of silver worth 600 drachma
+ταῦρος -ου, ὁ bull
+τάφος -ου, ὁ tomb
+τεῖχος -ους, τό wall
+τέκνον -ου, τό child
+τόξον -ου, τό bow
+τραῦμα -ατος, τό wound
+τριήρης -ους, ἡ trireme
+τροφή -ῆς, ἡ nourishment, food
+τύραννος -ου, ὁ ruler, tyrant
+ὕδωρ ὕδατος, τό water
+υἱός -οῦ, ὁ son
+ὕπνος -ου, ὁ sleep
+φάλαγξ -αγγος, ἡ phalanx, battle-array
+φάρμακον -ου, τό drug
+φόνος -ου, ὁ slaughter
+φρουρά -ᾶς, ἡ guard
+φυγάς -άδος, ὁ/ἡ fugitive
+φυγή -ῆς, ἡ escape
+φυλακή -ῆς, ἡ guard
+φυλή -ῆς, ἡ race, tribe
+φύσις -εως, ἡ nature
+φωνή -ῆς, ἡ sound, voice
+φῶς φωτός, ὁ light
+χειμών -ῶνος, ὁ winter
+χείρ χειρός, ἡ hand
+χρῆμα -ατος, τό thing, (pl.) money
+χρόνος -ου, ὁ time
+χρυσός -οῦ, ὁ gold
+χωρίον -ου, τό place
+ψήφισμα -ατος, τό decree
+ψῆφος -ου, ἡ vote
+ψυχή -ῆς, ἡ breath
+ὥρα -ας, ἡ season
+
+# cross-over
+
+τὰ βασίλεια palace << βασίλειος
+
+## ADJECTIVES
+
+ἀγαθός -ή -όν good {'adj/3a'}
+ἄδικος -ον unjust {'adj/2'}
+ἀδύνατος -ον impossible {'adj/2'}
+ἀέκων -ουσα -ον (Attic ἄκων) unwilling {'adj/3.att'}
+ἀθάνατος -ον immortal {'adj/2'}
+ἄθλιος -α -ον wretched {'adj/3a'}
+ἀθρόος -α -ον crowded {'adj/3a'}
+αἰσχρός -ή -όν disgraceful {'adj/3a'}
+αἴτιος -α -ον responsible, guilty {'adj/3a'}
+ἀκριβής -ές exact {'adj/2'}
+ἄκρος -α -ον top {'adj/3a'}
+ἀληθής -ές true {'adj/2'}
+ἄλλος -η -ον other {'adj/3a'}
+ἀλλότριος -α -ον someone else's {'adj/3a'}
+ἀμείνων -ον better {'adj/2'}
+ἀμφότερος -α -ον both {'adj/3a'}
+ἀναγκαῖος -α -ον necessary {'adj/3a'}
+ἀνδρεῖος -α -ον manly, brave {'adj/3a'}
+ἄξιος -α -ον worthy {'adj/3a'}
+ἅπας -ασα -αν all together {'adj/3a'}
+ἄπειρος -α -ον inexperienced, ignorant {'adj/3a'}
+ἄριστος -η -ον best {'adj/3a'}
+ἀρχαῖος -α -ον ancient {'adj/3a'}
+ἀσφαλής -ές safe {'adj/2'}
+βάρβαρος -α -ον foreign, barbarous {'adj/3a'}
+βαρύς -εῖα -ύ heavy {'adj/3a'}
+βασίλειος -α -ον kingly, royal {'adj/3a'}
+βασιλικός -ή -όν royal, kingly {'adj/3a'}
+βέβαιος -α -ον firm {'adj/3a'}
+βέλτιστος -η -ον best {'adj/3a'}
+βελτίων -ον better {'adj/2'}
+βραχύς -εῖα -ύ short {'adj/3a'}
+γλυκύς -εῖα -ύν sweet {'adj/3a'}
+γύμνος -η -ον naked {'adj/3a'}
+δειλός -ή -όν cowardly {'adj/3a'}
+δεινός -ή -όν awesome {'adj/3a'}
+δεξιός -ά -όν right {'adj/3a'}
+δεύτερος -α -ον second {'adj/3a'}
+δῆλος -η -ον clear {'adj/3a'}
+διακόσιοι -αι -α two hundred {'adj/3a'}
+δίκαιος -α -ον just {'adj/3a'}
+δῖος -α -ον divine {'adj/3a'}
+διπλοῦς -ῆ -οῦν double {'adj/3a'}
+δισχίλιοι -αι -α two thousand {'adj/3a'}
+δυνατός -ή -όν able {'adj/3a'}
+ἑκών -οῦσα -όν willing {'adj/3a'}
+ἐλάσσων -ον smaller, less {'adj/2'}
+ἐλεύθερος -α -ον free {'adj/3a'}
+ἐναντίος -α -ον opposite {'adj/3a'}
+ἐπιφανής -ές evident {'adj/2'}
+ἐπιτήδειος -α -ον convenient {'adj/3a'}
+ἐρῆμος -η -ον deserted {'adj/3a'}
+ἔσχατος -η -ον last {'adj/3a'}
+ἕτερος -α -ον other {'adj/3a'}
+ἕτοιμος or ἑτοῖμος -η -ον ready {'adj/3'}
+εὐδαίμων -ον happy, lucky, blessed {'adj/2'}
+εὐθύς -εῖα -ύ straight {'adj/3a'}
+εὐρύς -εῖα -ύ broad {'adj/3a'}
+ἐχθρός -ά -όν hated {'adj/3a'}
+ἡδύς -εῖα -ύ sweet {'adj/3a'}
+ἥκιστος -η -ον least {'adj/3a'}
+ἥμισυς -εια -υ half {'adj/3a'}
+ἥσσων -ον less, weaker {'adj/2'}
+θαυμαστός -ή -όν awesome {'adj/3a'}
+θεῖος -α -ον divine {'adj/3a'}
+ἴδιος -α -ον one's own {'adj/3a'}
+ἱερός -ᾶ -ον holy {'adj/3a'}
+ἱκανός -ή -όν sufficient {'adj/3a'}
+ἴσος -η -ον equal {'adj/3a'}
+ἰσχυρός -ά -όν strong {'adj/3a'}
+καθαρός -ά -όν pure {'adj/3a'}
+κακός -ή -όν bad {'adj/3a'}
+καλός -ή -όν beautiful {'adj/3a'}
+κενός -ή -όν empty {'adj/3a'}
+κοινός -ή -όν common {'adj/3a'}
+κράτιστος -η -ον strongest {'adj/3a'}
+κρείσσων -ον stronger {'adj/2'}
+λαμπρός -ά -όν bright {'adj/3a'}
+λευκός -ή -όν white {'adj/3a'}
+λοιπός -ή -όν remaining {'adj/3a'}
+μακρός -ά -όν long {'adj/3a'}
+μέγας μεγάλη μέγα big {'adj/3b'}
+μέλας μέλαινα μέλαν black {'adj/3b'}
+μέσος -η -ον middle {'adj/3a'}
+μικρός -ά -όν small {'adj/3a'}
+μόνος -η -ον alone, single {'adj/3a'}
+μυρίος -α -ον countless {'adj/3a'}
+ναυτικός -ή -όν naval {'adj/3a'}
+νέος -α -ον young {'adj/3a'}
+νόμιμος -η -ον customary {'adj/3a'}
+οἰκεῖος -α -ον domestic {'adj/3a'}
+ὅλος -η -ον whole {'adj/3a'}
+ὅμοιος or ὁμοῖος -α -ον like {'adj/3'}
+ὀξύς -εῖα -ύ sharp {'adj/3a'}
+ὀρθός -η -ον straight {'adj/3a'}
+παλαιός -ά -όν old {'adj/3a'}
+παράδοξος -ον contrary to expectation, paradoxical {'adj/2'}
+παραπλήσιος -α -ον resembling {'adj/3'}
+πάτριος -α -ον of or belonging to one's father {'adj/3a'}
+πεζός -ή -όν on foot {'adj/3a'}
+πεντακόσιοι -αι -α five hundred {'adj/3a'}
+πηρός -ά -όν disabled {'adj/3a'}
+πιστός -ή -όν faithful {'adj/3a'}
+πλεῖστος -η -ον most {'adj/3a'}
+πλέως πλέα πλέων full of {'adj/3b'}
+πλησίος -α -ον near {'adj/3a'}
+πλούσιος -α -ον rich {'adj/3a'}
+πολέμιος -α -ον hostile (m.pl.: the enemy) {'adj'}
+πολιτικός -ή -όν political {'adj/3a'}
+πονηρός -α -ον evil, painful {'adj/3a'}
+ποτός -η -ον drinkable {'adj/3a'}
+πρόθυμος -ον eager {'adj/2'}
+πρότερος -α -ον before {'adj/3a'}
+πρῶτος -η -ον first {'adj/3a'}
+ῥᾴδιος -α -ον easy {'adj/3a'}
+σαφής -ές clear {'adj/2'}
+σοφός -ή -όν wise {'adj/3a'}
+συγγενής -ές related {'adj/2'}
+σύγκλητος -ον specially called {'adj/2'}
+συνεχής -ές continuous {'adj/2'}
+σύμμαχος -ον allied {'adj/2'}
+σύμπας -πᾶσα -πᾶν all together {'adj/3'}
+ταχύς -εῖα -ύ quick {'adj/3a'}
+τελευταῖος -α -ον last, final {'adj/3a'}
+τέσσαρες -α four {'adj/2'}
+τέταρτος -η -ον fourth {'adj/3a'}
+τετρακόσιοι -αι -α four hundred {'adj/3a'}
+τηλικοῦτος -αύτη -οῦτον of such an age or size {'adj/3a'}
+τρεῖς τρία three {'adj/2'}
+τριακόσιοι -αι -α three hundred {'adj/3a'}
+τρίτος -η -ον third {'adj/3a'}
+ὑγιής -ές healthy {'adj/2'}
+ὕπατος -η -ον highest, the top of {'adj/3a'}
+ὕστερος -α -ον following {'adj/3a'}
+ὑψηλός -ή -όν high {'adj/3a'}
+φανερός -ά -όν clear {'adj/3a'}
+φαῦλος -η -ον trivial {'adj/3a'}
+φίλιος -α -ον friendly, dear {'adj/3a'}
+φίλος -η -ον beloved, dear {'adj/3a'}
+χαλεπός -ή -όν difficult {'adj/3a'}
+χείρων χεῖρον worse {'adj/2'}
+χίλιοι -αι -α a thousand {'adj/3a'}
+χρήσιμος -η -ον useful {'adj/3a'}
+χρηστός -ή -όν useful {'adj/3a'}
+χρυσοῦς -ῆ -οῦν golden {'adj/3a'}
+ψευδής -ές false {'adj/2'}
+
+
+##
+
+ἡ [feminine article nom sg] {'XXX6'}
+ἥ [relative pronoun, fem nom sg, “who, which”] {'XXX6'}
+ᾗ [relative pronoun, fem dat sg] {'XXX6'}
+or [“where”] {'XXX7'}
+σαυτοῦ -ῆς yourself [reflexive] {'pronoun'}
+ταὐτό = τὸ + αὐτό the same {'pronoun'}
+
+
+
+
+
+οἷος -α -ον τ’ εἰμί be able {'XXX8'}
+
+
+
+
+αὐτός -ή -ό self, same, s/he/it {'adj/3a'}
+ἑαυτοῦ -ῆς -οῦ him/her/itself {'adj/3a'}
+ἐγώ ἐμοῦ I {'pron'}
+εἷς μία ἕν one {'adj/3b'}
+
+ἕκαστος -η -ον each {'adj/3a'}
+ἑκάτερος -α -ον each of two {'adj/3a'}
+ἐκεῖνος -η -ον that {'adj/3a'}
+
+ἐμός -ή -όν my, mine {'adj/3a'}
+ἡμέτερος -α -ον our {'adj/3a'}
+σφέτερος -α -ον their (own) {'adj/3a'}
+ὑμέτερος -α -ον your, yours {'adj/3a'}
+
+ἔνιοι -αι -α some {'adj/3a'}
+
+ὁ ἡ τό the {'adj/3b'}
+ὅδε ἥδε τόδε this {'adj/3b'}
+οἷος -α -ον such a kind {'adj/3a'}
+ὁποῖος -α -ον of what sort {'adj/3a'}
+ὁπόσος -η -ον as many as {'adj/3a'}
+ὅς ἥ ὄ who, which, that {'adj/3b'}
+ὅσος -η -ον however much {'adj/3a'}
+ὅσπερ ἥπερ ὅπερ the very one who, the very thing which {'adj/3b'}
+ὅστε ἥτε ὅτε who, which {'adj/3b'}
+ὅστις ὅτι any one who, anything which {'XXX13', 'adj/2'}
+οὐδείς οὐδεμία οὐδέν no one, nothing {'adj/3'}
+οὗτος αὕτη τοῦτο this {'adj/3b'}
+
+πᾶς πᾶσα πᾶν all {'adj/3b'}
+
+ποῖος -α -ον what sort of? {'adj/3a'}
+
+πολύς πολλή πολύ many {'adj/3b'}
+ὀλίγος -η -ον few {'adj/3a'}
+
+πότερος -α -ον which of the two? {'adj/3a'}
+σός -ή -όν your, yours {'adj/3a'}
+
+τις τι someone, something {'adj/2'}
+τίς τί who? what? which? {'adj/2'}
+τοιόσδε τοιάδε τοιόνδε such a {'adj/3b'}
+τοιοῦτος τοιαύτη τοιοῦτο such as this {'adj/3b'}
+τοσόσδε -ηδε -ονδε so much, so many {'adj/3a'}
+τοσοῦτος -αύτη -οῦτο(ν) so large, so much {'adj/3a'}

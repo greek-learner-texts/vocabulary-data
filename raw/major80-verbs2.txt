@@ -1,0 +1,418 @@
+ἀγανακτέω : be annoyed with
+ἀγγέλλω : announce
+ἀγγέλλω > ἀπαγγέλλω : announce (ἀπό)
+ἀγγέλλω > ἐπαγγέλλω : announce (ἐπί)
+ἀγγέλλω > παραγγέλλω : transmit (παρά)
+ἀγνοέω : not know
+ἀγορεύω : say, proclaim
+ἀγορεύω > προσαγορεύω : greet (πρός)
+ἀγορέω > κατηγορέω : accuse (κατά)
+ἄγω : lead, bring
+ἄγω > ἀνάγω : lead up (ἀνά)
+ἄγω > ἀπάγω : carry off (ἀπό)
+ἄγω > εἰσάγω : lead (εἰς)
+ἄγω > ἐξάγω : lead out (ἐκ)
+ἄγω > ἐπάγω : bring on (ἐπί)
+ἄγω > κατάγω : lead down (κατά)
+ἄγω > προάγω : lead on (πρό)
+ἄγω > προσάγω : put before (πρός)
+ἄγω > συνάγω : bring together
+ἀγωνίζομαι : contend for a prize
+ἀδικέω : do wrong
+ἀείδω (Attic ᾄδω) : sing
+ἀθροίζω : muster
+αἰνέω : praise
+αἰνέω > ἐπαινέω : praise (ἐπί)
+αἱρέω : take (mid: choose)
+αἱρέω> ἀναιρέω : raise (ἀνά)
+αἱρέω> ἀφαιρέω : take from (ἀπό)
+αἱρέω> διαιρέω : divide, cut apart (διά)
+αἱρέω> ἐξαιρέω : take out (ἐκ)
+αἱρέω> προαιρέω : prefer, choose (πρό)
+αἴρω : raise
+αἰσθάνομαι : perceive
+αἰσχύνω : dishonor
+αἰτέω : ask
+αἰτιάομαι : accuse, blame
+ἀκολουθέω : follow
+ἀκούω : hear
+ἀκούω > ὑπακούω : listen to (ὑπό)
+ἁλίσκομαι : be taken
+ἀλλάσσω > ἀπαλλάσσω : release, escape (ἀπό)
+ἁμαρτάνω : make a mistake, miss the target
+ἀμείβω : change
+ἀμελέω : not worry
+ἀμύνω : ward off
+ἀμφισβητέω : argue
+ἀναγκάζω : force, compel
+ἀνοίγνυμι : open up
+ἀντάω > ἀπαντάω : meet (+ dat.) (ἀπό)
+ἀξιόω : consider worthy
+ἀπατάω > ἐξαπατάω : deceive (ἐκ)
+ἅπτω : join (mid: touch)
+ἅπτω > συνάπτω : bind together
+ἀρέσκω : please
+ἀρκέω : ward off
+ἁρμόζω : (Attic ἁρμόττω) join
+ἀρόω : plow
+ἁρπάζω : snatch
+ἄρχω : rule
+ἄρχω > ὑπάρχω : begin, exist (ὑπό)
+αὐξάνω : increase
+βαίνω : walk
+βαίνω > ἀναβαίνω : board, cross (ἀνά)
+βαίνω > ἀποβαίνω : step from (ἀπό)
+βαίνω > διαβαίνω : step across (διά)
+βαίνω > καταβαίνω : step down (κατά)
+βαίνω > συμβαίνω : happen, agree with
+βάλλω : throw
+βάλλω > διαβάλλω : throw across (διά)
+βάλλω > ἐκβάλλω : throw out (ἐκ)
+βάλλω > ἐμβάλλω : throw in (ἐν)
+βάλλω > ἐπιβάλλω : throw on (ἐπί)
+βάλλω > μεταβάλλω : change (μετά)
+βάλλω > συμβάλλω : throw together
+βάλλω > ὑπερβάλλω : excel (ὑπέρ)
+βασιλεύω : be king, rule, reign
+βιάζω, βιάω : force, compel
+βιόω : live
+βλάπτω : hurt
+βλέπω : see
+βοηθέω : help
+βουλεύω : deliberate
+βουλεύω > ἐπιβουλεύω : plan against (ἐπί)
+βουλεύω > συμβουλεύω : advise
+βούλομαι : want, wish
+γαμέω : marry
+γελάω : laugh
+γεννάω : beget
+γίγνομαι : become, be
+γίγνομαι > ἐπιγίγνομαι : be born after, come after (ἐπί)
+γίγνομαι > παραγίγνομαι : be present (παρά)
+γιγνώσκω : come to know, learn
+γιγνώσκω > ἀναγιγνώσκω : recognize (ἀνά)
+γιγνώσκω > καταγιγνώσκω : have prejudice, charge (κατά)
+γράφω : write
+δακρύω : cry
+δείδω : fear
+δείκνυμι : show
+δείκνυμι > ἀποδείκνυμι : point away (ἀπό)
+δείκνυμι > ἐπιδείκνυμι : exhibit (ἐπί)
+δέχομαι : welcome
+δέχομαι > προσδέχομαι : accept (πρός)
+δέω (1) : bind
+δέω (2) : need
+δηλόω : show
+διδάσκω : teach
+δίδωμι : give
+δίδωμι > ἀποδίδωμι : give back (ἀπό)
+δίδωμι > ἐκδίδωμι : surrender (ἐκ)
+δίδωμι > ἐνδίδωμι : give in (ἐν)
+δίδωμι > παραδίδωμι : hand over (παρά)
+δίδωμι > προδίδωμι : betray (πρό)
+δικάζω : judge
+διώκω : pursue
+δοκεῖ : it seems
+δοκέω : think
+δράω : do
+δύναμαι : be able, can
+ἐάω : allow
+ἐγείρω : wake up
+ἐθέλω : wish
+ἔθω : be accustomed
+εἴδομαι, εἶδον : see (cf. ὁράω)
+εἰμί : be
+εἶμι : go (cf. ἔρχομαι)
+εἰμί > ἄπειμι : be away (ἀπό)
+εἰμί > ἔξεστι : it is allowed, it is possible (ἐκ)
+εἰμί > πάρειμι : be present (παρά)
+εἰμί > πάρεστι : it is possible (+ dat.) (παρά)
+εἰμί > περίειμι : be around (περί)
+εἰμί > πρόσειμι : belong to, be present (πρός)
+εἰμί > σύνειμι : be with, associate with, live with
+εἶπον : say (cf. λέγω, φημί)
+εἴργω : confine
+ἐλαύνω : drive
+ἐλέγχω : refute
+ἐλέγχω > ἐξελέγχω : refute (ἐκ)
+ἐλευθερόω : set free
+ἐλπίζω : hope for
+ἐξετάζω : examine
+ἕοικα : be like
+ἐπείγω : press hard (mid: hurry)
+ἕπομαι : follow
+ἐργάζομαι : work
+ἔρομαι : ask
+ἔρχομαι : come, go
+ἔρχομαι > ἀπέρχομαι : go away (ἀπό)
+ἔρχομαι > διέρχομαι : go through (διά)
+ἔρχομαι > εἰσέρχομαι : go into, enter (εἰς)
+ἔρχομαι > ἐξέρχομαι : go or come out (ἐκ)
+ἔρχομαι > ἐπανέρχομαι : go back, return (ἐπί)
+ἔρχομαι > ἐπέρχομαι : come to (ἐπί)
+ἔρχομαι > παρέρχομαι : pass by (παρά)
+ἔρχομαι > προέρχομαι : advance (πρό)
+ἔρχομαι > προσέρχομαι : come or go tο (πρός)
+ἔρχομαι > συνέρχομαι : to come together
+ἐρῶ : will say
+ἐρῶ > προερέω, προεῖπον : proclaim (πρό)
+ἐρωτάω : ask
+ἐσθίω : eat
+εὑρίσκω : find
+εὔχομαι : pray
+ἔχω : have, hold
+ἔχω > ἀνέχω : hold up (ἀνά)
+ἔχω > ἀπέχω : keep away (ἀπό)
+ἔχω > ἐπέχω : hold on to (ἐπί)
+ἔχω > κατέχω : restrain (κατά)
+ἔχω > μετέχω : be involved (+ gen.) (μετά)
+ἔχω > παρέχω : provide (παρά)
+ἔχω > προσέχω : hold to, offer (πρός)
+ζάω : live
+ζητέω : seek
+ἡγέομαι : lead, consider
+ἥδομαι : rejoice
+ἥκω : have come, be present
+ἥκω > προσήκω : have arrived (πρός)
+ἧμαι : sit
+ἧμαι > κάθημαι : sit (κατά)
+ἠμί : say
+ἡσσάομαι : be inferior, be defeated
+θάπτω : bury
+θαρσέω : be bold, courageous
+θαυμάζω : be in awe
+θεάομαι : watch
+θεραπεύω : serve
+θέω : run
+θέω > προθέω : run forward (πρό)
+θεωρέω : look at
+θνήσκω : die
+θνῄσκω > ἀποθνῄσκω : die (ἀπό)
+θυμέομαι > ἐνθυμέομαι : ponder (ἐν)
+θυμέω > ἐπιθυμέω : desire (ἐπί)
+θύω : sacrifice
+ἱδρύω : make sit down, seat
+ἵημι : throw
+ἵημι > ἀφίημι : let go (ἀπό)
+ἵημι > προίημι : send ahead, shoot (πρό)
+ἱκνέομαι : come
+ἱκνέομαι > ἀφικνέομαι : come to (ἀπό)
+ἵστημι : stand
+ἵστημι > ἀνίστημι : stand up (ἀνά)
+ἵστημι > ἀφίστημι : remove, revolt (ἀπό)
+ἵστημι > ἐφίστημι : set upon (ἐπί)
+ἵστημι > καθίστημι : set down (κατά)
+ἵστημι > παρίστημι : set or stand beside (παρά)
+ἵστημι > περιίστημι : place round (περί)
+ἵστημι > προίστημι : set in front (πρό)
+ἵστημι > συνίστημι : bring together
+ἵστημι? > ἐπίσταμαι : know
+καλέω : call
+καλέω > ἐγκαλέω : accuse (ἐν)
+καλέω > παρακαλέω : call for (παρά)
+κάμνω : work
+κεῖμαι : lie down
+κειμαι > διάκειμαι : be arranged (pass. of διατίθημι) (διά)
+κελεύω : order
+κινδυνεύω : risk
+κινέω : move
+κλέπτω : steal
+κλίνω : bend
+κολάζω : punish
+κομίζω : bring
+κόπτω : cut
+κοσμέω : arrange
+κρατέω : rule (+ gen.)
+κρίνω : judge, decide
+κρίνω > ἀποκρίνω : separate (mid: answer) (ἀπό)
+κρύπτω : hide
+κτάομαι : acquire
+κτείνω : kill
+κτείνω > ἀποκτείνω : kill (ἀπό)
+κυρέω : meet (+ gen.), happen
+κωλύω : prevent
+λαγχάνω : obtain by a lottery
+λαλέω : talk, babble
+λαμβάνω : take
+λαμβάνω > ἀναλαμβάνω : pick up (ἀνά)
+λαμβάνω > ἀπολαμβάνω : take from (ἀπό)
+λαμβάνω > καταλαμβάνω : take hold of (κατά)
+λαμβάνω > παραλαμβάνω : receive (παρά)
+λαμβάνω > προσλαμβάνω : take or receive besides (πρός)
+λαμβάνω > συλλαμβάνω : collect
+λαμβάνω > ὑπολαμβάνω : take up (ὑπό)
+λανθάνω : do without being noticed
+λέγω : say, speak
+λέγω > διαλέγω : discuss (διά)
+λείπω : leave
+λείπω > ἀπολείπω : leave behind (ἀπό)
+λείπω > ἐκλείπω : leave out (ἐκ)
+λείπω > καταλείπω : leave behind (κατά)
+λογέομαι > ἀπολογέομαι : defend oneself (ἀπό)
+λογίζομαι : calculate
+λυπέω : hurt
+λύω : loosen, destroy
+λύω > ἀπολύω : set free from (ἀπό)
+λύω > διαλύω : dissolve (διά)
+μανθάνω : learn
+μαρτυρέω : witness, give testimony
+μαχέω > συμμαχέω : be an ally
+μάχομαι : fight
+μέλει : it is a problem, or worry, for (+ dat.)
+μελέομαι > ἐπιμελέομαι : take care of (ἐπί)
+μέλλω : intend, going to
+μένω : stay
+μένω > ὑπομένω : stay behind, survive (ὑπό)
+μιμνήσκω : remind, (in perfect middle) remember
+μισέω : hate
+νέμω : distribute
+νικάω : conquer, win
+νοέω : have in mind
+νομίζω : consider
+οἰκέω : inhabit, occupy
+οἰκέω > διοικέω : manage a house (διά)
+οἰκέω > κατοικέω : dwell, settle (κατά)
+οἰκοδομέω : build a house
+οἶμαι, οἴομαι : think
+οἴχομαι : be gone
+ὄλλυμι : destroy, lose
+ὄλλυμι > ἀπόλλυμι : kill (mid: die) (ἀπό)
+ὄμνυμι : swear
+ὁμοιόω : make like
+ὁμολογέω : agree
+ὁμόω : unite
+ὀνομάζω : call by name
+ὁράω : see
+ὀργίζω : make angry
+ὀρθόω : set straight
+ὁρμάω : rush
+ὀφείλω : owe
+παιδεύω : educate
+πάσσω : sprinkle
+πάσχω : suffer, experience
+παύω : stop
+πείθω : persuade
+πειράζω : test
+πειράω : try
+πέμπω : send
+πέμπω > ἀποπέμπω : send away (ἀπό)
+πέμπω > ἐκπέμπω : send out (ἐκ)
+πέμπω > μεταπέμπω : summon (μετά)
+περάω : pass through
+πέρθω : destroy
+πίμπλημι : fill
+πίνω : drink
+πίπτω : fall
+πίπτω > ἐκπίπτω : fall out (ἐκ)
+πίπτω > ἐμπίπτω : fall on (ἐν)
+πίπτω > προσπίπτω : fall upon, strike against (πρός)
+πιστεύω : trust
+πλέω : sail
+πλέω > ἀποπλέω : sail away (ἀπό)
+πληρόω : fill
+πλήσσω : strike
+πλήσσω > καταπλήσσω : strike down (κατά)
+ποιέω : make
+πολεμέω : make war
+πολιορκέω : besiege
+πολιτεύω : participate in government or politics
+πορεύω : carry, march
+πορθέω : destroy
+πράσσω : do
+πράσσω > διαπράσσω : pass over, accomplish (διά)
+πρεσβεύω : be the elder or ambassador
+πυνθάνομαι : ascertain
+πωλέω : sell
+ῥέω : flow
+σημαίνω : show
+σκέπτομαι : examine
+σκευάζω : prepare
+σκευάζω > κατασκευάζω : equip (κατά)
+σκευάζω > παρασκευάζω : prepare (παρά)
+σκοπέω : look at
+σπεύδω : hurry
+σπουδάζω : hurry
+στέλλω : send
+στέλλω > ἀποστέλλω : send away (ἀπό)
+στερέω : separate
+στερέω > ἀποστερέω : deprive (ἀπό)
+στεφανόω : surround, crown
+στρατεύω : do military service
+στρατοπεδεύω : encamp
+στρέφω : turn
+στρέφω > καταστρέφω : subdue (κατά)
+σφάζω : kill
+σχνέομαι? > ὑπισχνέομαι : promise
+σώζω : save
+τάσσω : arrange
+τάσσω > προστάσσω : place at (πρός)
+τάσσω > συντάσσω : arrange
+τείνω : stretch
+τείνω > ἐκτείνω : stretch out (ἐκ)
+τειχέω : build walls
+τελευτάω : finish, die
+τελέω : fulfil
+τελέω > διατελέω : finish (διά)
+τέμνω : cut
+τεύχω : build
+τηρέω : watch for
+τίθημι : put
+τίθημι > ἀνατίθημι : put up, set on (ἀνά)
+τίθημι > διατίθημι : arrange (διά)
+τίθημι > ἐπιτίθημι : put on (ἐπί)
+τίθημι > προστίθημι : put to (πρός)
+τίθημι > συντίθημι : put together
+τίκτω : give birth
+τιμάω : honor
+τιμωρέω : help, avenge
+τολμάω : dare
+τρέπω : turn
+τρέπω > ἐπιτρέπω : entrust (ἐπί)
+τρέφω : nourish
+τρέχω : run
+τρέω : flee
+τρίβω : rub
+τρίβω > διατρίβω : consume, spend time (διά)
+τυγχάνω : happen (+ part.) hit, meet, have (+ gen.)
+τυγχάνω > ἐντυγχάνω : meet with (ἐν)
+ὑβρίζω : insult, offend, disrespect
+φαίνω : show, appear
+φαίνω > ἀποφαίνω : display (ἀπό)
+φάσκω : claim
+φέρω : carry
+φέρω > διαφέρω : carry on, make a difference (διά)
+φέρω > εἰσφέρω : carry into, pay taxes (εἰς)
+φέρω > ἐκφέρω : carry out (ἐκ)
+φέρω > ἐπιφέρω : put upon (ἐπί)
+φέρω > προσφέρω : bring to (πρός)
+φέρω > συμφέρω : benefit (+ dat.)
+φεύγω : flee, run away
+φεύγω > διαφεύγω : escape (διά)
+φεύγω > καταφεύγω : flee for refuge (κατά)
+φημί : say
+φθάνω : anticipate
+φθείρω : destroy
+φθείρω > διαφθείρω : destroy (διά)
+φιλέω : love
+φοβέω : terrify
+φράζω : tell
+φρονέω : think
+φρονέω > καταφρονέω : despise (+ gen.) (κατά)
+φροντίζω : think
+φυλάσσω : guard
+φύω : produce
+φωνέω : make a sound, speak
+χαίρω : be happy
+χειρέω > ἐπιχειρέω : attempt (ἐπί)
+χειρόω : manage, master
+χέω : pour
+χόω : pile up, bury
+χράομαι : use (+ dat.)
+χράω : (a) scrape (b) attack, be eager, desire (impf) (c) furnish
+χρή : it is fated, necessary
+χωρέω : move
+χωρέω > ἀναχωρέω : go back (ἀνά)
+χωρέω > συγχωρέω : come together, agree
+ψεύδω : lie, cheat
+ψηφίζω : vote
+ὠφελέω : help

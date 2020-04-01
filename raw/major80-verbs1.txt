@@ -1,0 +1,440 @@
+Major claims 26 ύω verbs (20 regular and 6 irregular)
+But there are 27 in the list:
+
+ἀκούω hear
+    ὑπακούω listen to (ὑπό)
+δακρύω cry
+θύω sacrifice
+ἱδρύω make sit down, seat
+κωλύω prevent
+λύω loosen, destroy
+    ἀπολύω set free from (ἀπό)
+    διαλύω dissolve (διά)
+παύω stop
+φύω produce
+ἀγορεύω say, proclaim
+    προσαγορεύω greet (πρός)
+βασιλεύω be king, rule, reign
+βουλεύω deliberate
+    ἐπιβουλεύω plan against (ἐπί)
+    συμβουλεύω advise
+θεραπεύω serve
+κελεύω order
+κινδυνεύω risk
+παιδεύω educate
+πιστεύω trust
+πολιτεύω participate in government or politics
+πορεύω carry, march
+πρεσβεύω be the elder or ambassador
+στρατεύω do military service
+στρατοπεδεύω encamp
+
+Major claims 70 έω verbs (50 regular, 20 irregular)
+But there are 82 in the list:
+
+ἀγανακτέω be annoyed with
+ἀγνοέω not know
+ἀδικέω do wrong
+αἰνέω praise
+    ἐπαινέω praise (ἐπί)
+αἱρέω take (mid: choose)
+    ἀναιρέω raise (ἀνά)
+    ἀφαιρέω take from (ἀπό)
+    διαιρέω divide, cut apart (διά)
+    ἐξαιρέω take out (ἐκ)
+    προαιρέω prefer, choose (πρό)
+αἰτέω ask
+ἀκολουθέω follow
+ἀμελέω not worry
+ἀμφισβητέω argue
+ἀρκέω ward off
+βοηθέω help
+γαμέω marry
+δέω (1) bind
+δέω (2) need
+δοκέω think
+ζητέω seek
+θαρσέω be bold, courageous
+θέω run
+    προθέω run forward (πρό)
+θεωρέω look at
+ἐνθυμέομαι ponder (ἐν)
+ἐπιθυμέω desire (ἐπί) (+???)
+ἱκνέομαι come
+    ἀφικνέομαι come to (ἀπό)
+καλέω call
+    ἐγκαλέω accuse (ἐν)
+    παρακαλέω call for (παρά)
+κατηγορέω accuse (κατά) (+???)
+κινέω move
+κοσμέω arrange
+κρατέω rule (+ gen.)
+κυρέω meet (+ gen.), happen
+λαλέω talk, babble
+λυπέω hurt
+μαρτυρέω witness, give testimony
+μισέω hate
+νοέω have in mind
+οἰκέω inhabit, occupy
+    διοικέω manage a house (διά)
+    κατοικέω dwell, settle (κατά)
+οἰκοδομέω build a house
+ὁμολογέω agree
+πλέω sail
+    ἀποπλέω sail away (ἀπό)
+ποιέω make
+πολεμέω make war
+πολιορκέω besiege
+πορθέω destroy
+προερέω, προεῖπον proclaim (πρό) (+???)
+πωλέω sell
+ῥέω flow
+σκοπέω look at
+στερέω separate
+    ἀποστερέω deprive (ἀπό)
+συμμαχέω be an ally
+τειχέω build walls
+τελέω fulfil
+    διατελέω finish (διά)
+τηρέω watch for
+τιμωρέω help, avenge
+τρέω flee
+φιλέω love
+φοβέω terrify
+φρονέω think
+    καταφρονέω despise (+ gen.) (κατά)
+φωνέω make a sound, speak
+χέω pour
+ἐπιχειρέω attempt (ἐπί)
+χωρέω move
+    ἀναχωρέω go back (ἀνά)
+    συγχωρέω come together, agree (why not prefixed?)
+ὠφελέω help
+
+ἀπολογέομαι defend oneself (ἀπό)
+ἐπιμελέομαι take care of (ἐπί)
+ἡγέομαι lead, consider
+ὑπισχνέομαι promise
+
+Major claims 26 άω verbs (17 regular and 9 irregular)
+But there are 18 in the list:
+
+ἀπαντάω + dat meet (ἀπό)
+βιάζω, βιάω force, compel
+γελάω laugh
+γεννάω beget
+δράω do
+ἐάω allow
+ἐξαπατάω deceive (ἐκ) (+???)
+ἐρωτάω ask
+ζάω live
+νικάω conquer, win
+ὁράω see
+ὁρμάω rush
+πειράω try
+περάω pass through
+τελευτάω finish, die
+τιμάω honor
+τολμάω dare
+χράω (a) scrape (b) attack, be eager, desire (impf) (c) furnish
+
+???
+αἰτιάομαι accuse, blame
+ἡσσάομαι be inferior, be defeated
+θεάομαι watch
+κτάομαι acquire
+χράομαι use (+ dat.)
+
+
+Major claims 15 όω verbs (10 regular and 5 irregular)
+But there are 12 in the list:
+
+ἀξιόω consider worthy
+ἀρόω plow
+βιόω live
+δηλόω show
+ἐλευθερόω set free
+ὁμοιόω make like
+ὁμόω unite
+ὀρθόω set straight
+πληρόω fill
+στεφανόω surround, crown
+χειρόω manage, master
+χόω pile up, bury
+
+
+ἀγγέλλω announce
+ἄγω lead, bring
+ἀγωνίζομαι contend for a prize
+ἀείδω (Attic ᾄδω) sing
+ἀθροίζω muster
+αἴρω raise
+αἰσθάνομαι perceive
+αἰσχύνω dishonor
+ἁλίσκομαι be taken
+ἁμαρτάνω make a mistake, miss the target
+ἀμείβω change
+ἀμύνω ward off
+ἀνάγω lead up (ἀνά)
+ἀναλαμβάνω pick up (ἀνά)
+ἀναβαίνω board, cross (ἀνά)
+ἀναγιγνώσκω recognize (ἀνά)
+ἀνέχω hold up (ἀνά)
+ἀνίστημι stand up (ἀνά)
+ἀνατίθημι put up, set on (ἀνά)
+ἀναγκάζω force, compel
+ἀνοίγνυμι open up
+ἀπαλλάσσω release, escape (ἀπό)
+ἀπαγγέλλω announce (ἀπό)
+ἀπάγω carry off (ἀπό)
+ἀποβαίνω step from (ἀπό)
+ἀποδείκνυμι point away (ἀπό)
+ἀποδίδωμι give back (ἀπό)
+ἄπειμι be away (ἀπό)
+ἀπέρχομαι go away (ἀπό)
+ἀπέχω keep away (ἀπό)
+ἀποθνῄσκω die (ἀπό)
+ἀφίημι let go (ἀπό)
+ἀφίστημι remove, revolt (ἀπό)
+ἀποκρίνω separate (mid: answer) (ἀπό)
+ἀποκτείνω kill (ἀπό)
+ἀπολαμβάνω take from (ἀπό)
+ἀπολείπω leave behind (ἀπό)
+ἀπόλλυμι kill (mid: die) (ἀπό)
+ἀποπέμπω send away (ἀπό)
+ἀποστέλλω send away (ἀπό)
+ἀποφαίνω display (ἀπό)
+ἅπτω join (mid: touch)
+ἀρέσκω please
+ἁρμόζω (Attic ἁρμόττω) join
+ἁρπάζω snatch
+ἄρχω rule
+αὐξάνω increase
+βαίνω walk
+βάλλω throw
+βλάπτω hurt
+βλέπω see
+βούλομαι want, wish
+γίγνομαι become, be
+γιγνώσκω come to know, learn
+γράφω write
+δείδω fear
+δείκνυμι show
+δέχομαι welcome
+διαβαίνω step across (διά)
+διαβάλλω throw across (διά)
+διέρχομαι go through (διά)
+διάκειμαι be arranged (pass. of διατίθημι) (διά)
+διαλέγω discuss (διά)
+διαπράσσω pass over, accomplish (διά)
+διατίθημι arrange (διά)
+διατρίβω consume, spend time (διά)
+διαφέρω carry on, make a difference (διά)
+διαφεύγω escape (διά)
+διαφθείρω destroy (διά)
+διδάσκω teach
+δίδωμι give
+δικάζω judge
+διώκω pursue
+δοκεῖ it seems
+δύναμαι be able, can
+ἐγείρω wake up
+ἐθέλω wish
+ἔθω be accustomed
+εἴδομαι, εἶδον see (cf. ὁράω)
+εἰμί be
+εἶμι go (cf. ἔρχομαι)
+εἶπον say (cf. λέγω, φημί)
+εἴργω confine
+εἰσάγω lead (εἰς)
+εἰσέρχομαι go into, enter (εἰς)
+εἰσφέρω carry into, pay taxes (εἰς)
+ἐξάγω lead out (ἐκ)
+ἐκβάλλω throw out (ἐκ)
+ἐκδίδωμι surrender (ἐκ)
+ἐξελέγχω refute (ἐκ)
+ἐξέρχομαι go or come out (ἐκ)
+ἔξεστι it is allowed, it is possible (ἐκ)
+ἐκλείπω leave out (ἐκ)
+ἐκπέμπω send out (ἐκ)
+ἐκπίπτω fall out (ἐκ)
+ἐκτείνω stretch out (ἐκ)
+ἐκφέρω carry out (ἐκ)
+ἐλαύνω drive
+ἐλέγχω refute
+ἐλπίζω hope for
+ἐμβάλλω throw in (ἐν)
+ἐνδίδωμι give in (ἐν)
+ἐμπίπτω fall on (ἐν)
+ἐντυγχάνω meet with (ἐν)
+ἐξετάζω examine
+ἕοικα be like
+ἐπείγω press hard (mid: hurry)
+ἐπαγγέλλω announce (ἐπί)
+ἐπάγω bring on (ἐπί)
+ἐπανέρχομαι go back, return (ἐπί)
+ἐπιβάλλω throw on (ἐπί)
+ἐπιγίγνομαι be born after, come after (ἐπί)
+ἐπιδείκνυμι exhibit (ἐπί)
+ἐπέρχομαι come to (ἐπί)
+ἐπέχω hold on to (ἐπί)
+ἐφίστημι set upon (ἐπί)
+ἐπιτίθημι put on (ἐπί)
+ἐπιτρέπω entrust (ἐπί)
+ἐπιφέρω put upon (ἐπί)
+ἐπίσταμαι know
+ἕπομαι follow
+ἐργάζομαι work
+ἔρομαι ask
+ἔρχομαι come, go
+ἐρῶ will say
+ἐσθίω eat
+εὑρίσκω find
+εὔχομαι pray
+ἔχω have, hold
+ἥδομαι rejoice
+ἥκω have come, be present
+ἧμαι sit
+ἠμί say
+θάπτω bury
+θαυμάζω be in awe
+θνήσκω die
+ἵημι throw
+ἵστημι stand
+κάμνω work
+καταβαίνω step down (κατά)
+καταγιγνώσκω have prejudice, charge (κατά)
+κατάγω lead down (κατά)
+κάθημαι sit (κατά)
+καθίστημι set down (κατά)
+καταλαμβάνω take hold of (κατά)
+καταλείπω leave behind (κατά)
+καταπλήσσω strike down (κατά)
+κατασκευάζω equip (κατά)
+καταστρέφω subdue (κατά)
+καταφεύγω flee for refuge (κατά)
+κατέχω restrain (κατά)
+κεῖμαι lie down
+κλέπτω steal
+κλίνω bend
+κολάζω punish
+κομίζω bring
+κόπτω cut
+κρίνω judge, decide
+κρύπτω hide
+κτείνω kill
+λαγχάνω obtain by a lottery
+λαμβάνω take
+λανθάνω do without being noticed
+λέγω say, speak
+λείπω leave
+λογίζομαι calculate
+μανθάνω learn
+μάχομαι fight
+μέλει it is a problem, or worry, for (+ dat.)
+μέλλω intend, going to
+μένω stay
+μεταβάλλω change (μετά)
+μεταπέμπω summon (μετά)
+μετέχω be involved (+ gen.) (μετά)
+μιμνήσκω remind, (in perfect middle) remember
+νέμω distribute
+νομίζω consider
+οἶμαι, οἴομαι think
+οἴχομαι be gone
+ὄλλυμι destroy, lose
+ὄμνυμι swear
+ὀνομάζω call by name
+ὀργίζω make angry
+ὀφείλω owe
+παραγγέλλω transmit (παρά)
+παραγίγνομαι be present (παρά)
+παραδίδωμι hand over (παρά)
+πάρειμι be present (παρά)
+πάρεστι it is possible (+dat.) (παρά)
+παρέρχομαι pass by (παρά)
+παρέχω provide (παρά)
+παρίστημι set or stand beside (παρά)
+παραλαμβάνω receive (παρά)
+παρασκευάζω prepare (παρά)
+πάσσω sprinkle
+πάσχω suffer, experience
+πείθω persuade
+πειράζω test
+πέμπω send
+πέρθω destroy
+περίειμι be around (περί)
+περιίστημι place round (περί)
+πίμπλημι fill
+πίνω drink
+πίπτω fall
+πλήσσω strike
+πράσσω do
+προάγω lead on (πρό)
+προδίδωμι betray (πρό)
+προέρχομαι advance (πρό)
+προίημι send ahead, shoot (πρό)
+προίστημι set in front (πρό)
+προσάγω put before (πρός)
+προσδέχομαι accept (πρός)
+πρόσειμι belong to, be present (πρός)
+προσέρχομαι come or go tο (πρός)
+προσέχω hold to, offer (πρός)
+προσήκω have arrived (πρός)
+προσλαμβάνω take or receive besides (πρός)
+προσπίπτω fall upon, strike against (πρός)
+προστάσσω place at (πρός)
+προστίθημι put to (πρός)
+προσφέρω bring to (πρός)
+πυνθάνομαι ascertain
+σημαίνω show
+σκέπτομαι examine
+σκευάζω prepare
+σπεύδω hurry
+σπουδάζω hurry
+στέλλω send
+στρέφω turn
+συνάγω bring together
+συνάπτω bind together
+συλλαμβάνω collect
+συμβαίνω happen, agree with
+συμβάλλω throw together
+σύνειμι be with, associate with, live with
+συνέρχομαι to come together
+συνίστημι bring together
+συμφέρω benefit (+ dat.)
+συντάσσω arrange
+συντίθημι put together
+σφάζω kill
+σώζω save
+τάσσω arrange
+τείνω stretch
+τέμνω cut
+τεύχω build
+τίθημι put
+τίκτω give birth
+τρέπω turn
+τρέφω nourish
+τρέχω run
+τρίβω rub
+τυγχάνω happen (+ part.) hit, meet, have (+ gen.)
+ὑβρίζω insult, offend, disrespect
+ὑπερβάλλω excel (ὑπέρ)
+ὑπάρχω begin, exist (ὑπό)
+ὑπολαμβάνω take up (ὑπό)
+ὑπομένω stay behind, survive (ὑπό)
+φαίνω show, appear
+φάσκω claim
+φέρω carry
+φεύγω flee, run away
+φημί say
+φθάνω anticipate
+φθείρω destroy
+φράζω tell
+φροντίζω think
+φυλάσσω guard
+χαίρω be happy
+ψεύδω lie, cheat
+ψηφίζω vote
+
+χρή it is fated, necessary
