@@ -19,4 +19,5 @@ This is raw, unprocessed data from other sources.
 * `abbott-smith2015.txt` comes from [morphgnt/morphological-lexicon](https://github.com/morphgnt/morphological-lexicon) and was extracted from [translatable-exegetical-tools/Abbott-Smith](https://github.com/translatable-exegetical-tools/Abbott-Smith) and cleaned up by James Tauber in 2015
 * `bdag-headwords.txt` comes from [morphgnt/data-cleanup](https://github.com/morphgnt/data-cleanup) and was prepared by James Tauber many years ago
 ---
+* `gltp5000.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) prepared by James Tauber very recently with the help of Seumas Macdonald
 * `gltp5000-ge-campbell.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) prepared by James Tauber very recently with the help of Seumas Macdonald
