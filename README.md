@@ -13,6 +13,7 @@ These GitHub repositories:
 * https://github.com/jtauber/major80/ (private) — now fully incorporated in to `raw/` directory
 * https://github.com/jtauber/lsj-headwords (private)
 * https://github.com/jtauber/greek-vocab-assessment (private)
+* https://github.com/morphgnt/data-cleanup (private)
 
 and this spreadsheet:
 

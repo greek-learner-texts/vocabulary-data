@@ -16,3 +16,4 @@ This is raw, unprocessed data from other sources.
 * `major80-verbs2.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and begins to classify verbs in another way; done by James Tauber
 ---
 * `abbott-smith2015.txt` comes from [morphgnt/morphological-lexicon](https://github.com/morphgnt/morphological-lexicon) and was extracted from [translatable-exegetical-tools/Abbott-Smith](https://github.com/translatable-exegetical-tools/Abbott-Smith) and cleaned up by James Tauber in 2015
+* `bdag-headwords.txt` comes from [morphgnt/data-cleanup](https://github.com/morphgnt/data-cleanup) and was prepared by James Tauber many years ago
