@@ -29,7 +29,7 @@ We use the term **lexeme**, **entry**, **lexical item**, **vocabulary item** or 
 
 We use the term **lemma**, **headword**, **dictionary form**, **citation form**, or just **key** to refer to the string that identifies the lexical item.
 
-Sometimes a distinction is made between the bare form used as a lemma (e.g. λόγος) and the full identifying headword (e.g. λόγος, ου, ὁ). There are also cases where a numeral or gloss is added to distinguish homographs.
+Sometimes a distinction is made between the bare form used as a lemma (e.g. λόγος) and the full headword or citation form (e.g. λόγος, ου, ὁ). There are also cases where a numeral or gloss is added to distinguish homographs.
 
 Also see [Linking Lexical Resources for Biblical Greek](https://vimeo.com/243936959) for a talk from SBL 2017 on additional issues and concepts.
 
