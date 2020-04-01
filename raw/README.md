@@ -14,3 +14,5 @@ This is raw, unprocessed data from other sources.
 * `major80-nominals.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and begins to classify nominals; done by James Tauber and Seumas Macdonald
 * `major80-verbs1.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and begins to classify verbs in one way; done by James Tauber
 * `major80-verbs2.txt` comes from [jtauber/major80](https://github.com/jtauber/major80) and begins to classify verbs in another way; done by James Tauber
+---
+* `abbott-smith2015.txt` comes from [morphgnt/morphological-lexicon](https://github.com/morphgnt/morphological-lexicon) and was extracted from [translatable-exegetical-tools/Abbott-Smith](https://github.com/translatable-exegetical-tools/Abbott-Smith) and cleaned up by James Tauber in 2015
