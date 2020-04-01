@@ -11,6 +11,8 @@ These GitHub repositories:
 * https://github.com/jtauber/greek-lemma-mappings
 * https://github.com/morphgnt/morphological-lexicon
 * https://github.com/jtauber/major80/ (private)
+* https://github.com/jtauber/lsj-headwords (private)
+* https://github.com/jtauber/greek-vocab-assessment (private)
 
 and this spreadsheet:
 
