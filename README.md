@@ -26,12 +26,12 @@ We use the term **lemma**, **headword**, **dictionary form**, **citation form**,
 
 ## Categories of Data
 
-* We just have an unordered list of items with no additional properties (so effectively just the keys)
+* We just have an unordered list of items with no additional properties (so effectively just the keys).
 
-* we have an unordered list of items but they contain additional properties (perhaps a gloss, part-of-speech, inflectional class, semantic domain, etc)
+* We have an unordered list of items but they contain additional properties (perhaps a gloss, part-of-speech, inflectional class, semantic domain, etc).
 
-* we have some mapping between the items in two lists which might differ in the key used in each list
+* We have some mapping between the items in two lists which might differ in the key used in each list.
 
-* we have corpus-specific frequency information on each item
+* We have corpus-specific frequency information on each item.
 
-* we have ordering (either explict in the data or based on sorted on some property whether it be lexicographical sorting of the key or ordering based on frequency in a particular corpus)
+* We have ordering (either explicit in the data or based on sorted on some property, whether it be lexicographical sorting of the key or ordering based on frequency in a particular corpus, or something else).
