@@ -1,0 +1,50 @@
+DIORISIS LEMMA|DIORISIS COUNT|DIORISIS RANK|COMMENTS (JKT)
+ἠέ|50237|27|I've seen in Enchridion that Diorisis massively over-lemmatises ἤ as this
+ἕ|30591|41|Gorman also has this in top 1000 (rank 355)
+δέομαι|13383|76|Gorman also has this in top 1000 (rank 370); presumably this is one of the δέω
+ἀίω|8641|114
+ποτέ|6535|150|Gorman also has this in top 1000 (rank 155)
+πού|4966|201|Gorman also has this in top 1000 (rank 432)
+ἀποθνήσκω|4144|237|Gorman also has this in top 1000; we spell it ἀποθνῄσκω
+καταλιμπάνω|3303|293|Gorman also has this in top 1000
+σώζω|3206|301|Gorman also has this; we spell it σῴζω
+ἡδονά|3185|303|rank 1714 in Gorman
+κἀν|3104|313|rank 4120 in Gorman
+ταυτός|2860|341
+θνήσκω|2792|348|Gorman also has this in top 1000; we spell it θνῄσκω
+στρατία|2520|389|rank 1943 in Gorman
+ζώιον|2514|392|rank 1591 in Gorman
+σκοπάω|2068|487|rank 1591 in Gorman
+σαυτοῦ|2035|496|rank 1176 in Gorman
+μέρα|2006|503
+ἀκέω|1978|516|rank 4536 in Gorman
+οἶνον|1964|523|rank 3835 in Gorman
+ἱερά|1909|540
+πέρ|1809|573|Gorman also has this in top 1000
+ὕπατος|1808|574|Gorman also has this in top 1000
+κέω|1670|616|rank 4120 in Gorman
+ἁγέομαι|1666|618|rank 2228 in Gorman
+κάτος|1648|622
+ἐμπίτνω|1637|625|Gorman also has this; = ἐμπίπτω?
+κίνησις|1633|626|rank 2565 in Gorman
+χαρίζομαι|1594|640|rank 1080 in Gorman
+ἰδού|1588|644
+σχέθω|1574|652
+ἔθω|1542|670|Gorman also has this in top 1000
+δοκάζω|1505|686
+ψηφίζομαι|1467|698|Gorman also has this in top 1000
+πηρός|1396|726
+πρέσβις|1388|729|rank 1430 in Gorman
+βουλεύς|1372|733
+ἐκπίτνω|1367|739|= ἐκπίπτω?; rank 1080 in Gorman
+καθόλου|1271|792|Gorman also has this in top 1000
+ἠδέ|1230|826
+ἱστορία|1213|836|Gorman also has this in top 1000
+γαῖα|1193|854|rank 3349 in Gorman (rank 756 for proper name)
+ἐράομαι|1174|866|rank 2700 in Gorman plus Gorman also has ἐράω1
+μίγνυμι|1151|887|rank 1176 in Gorman
+τάχιστος|1092|925|rank 1546 in Gorman
+σύμμετρος|1068|941|rank 3159 in Gorman
+δόμος|1067|942
+προαίρεσις|1024|976|Gorman also has this in top 1000
+βασίλη|1018|984

@@ -1,0 +1,58 @@
+GORMAN LEMMA|GORMAN COUNT|GORMAN RANK|COMMENTS (JKT)
+[0]|242|215|probably shouldn't even be here
+ἄν1|1800|33|maybe just need to drop the 1
+ἄπειμι1|63|823|maybe just need to drop the 1
+ἀποθνήσκω|247|211|Diorisis also has this in top 1000; we just spell it ἀποθνῄσκω
+δέομαι|141|370|Diorisis also has this in top 1000; presumably this is one of the δέω
+δέω1|102|505|maybe just need to drop the 1
+διὰ|76|688|grave accent!?
+διάθεσις|54|959|42 of them in Polybius; rank 1392 in Diorisis
+διόπερ|136|384|rank 1015 in Diorisis
+ἕ|147|355|Diorisis also has this in top 1000
+ἔθω|70|748|Diorisis also has this in top 1000
+ἐμπίτνω|77|677|Diorisis also has this in top 1000; = ἐμπίπτω?
+ἔπειμι1|54|959|maybe just need to drop the 1
+ἐράω1|55|939|maybe just need to drop the 1; there is also rank 2700 ἐράομαι
+εὐθύς2|282|184
+ἢ|556|95|grave accent!?
+ἤ1|1423|41|maybe just need to drop the 1
+θνήσκω|106|481|Diorisis also has this in top 1000; we just spell it θνῄσκω
+θύω1|114|450|maybe just need to drop the 1
+ἱστορία|96|537|Diorisis also has this in top 1000
+καθόλου|73|720|Diorisis also has this in top 1000
+καταλιμπάνω|188|286|Diorisis also has this in top 1000
+κοινῇ|71|734|rank 1070 in Diorisis
+λέγω2|59|887|we don't distinguish within λέγω
+λέγω3|1599|36|we don't distinguish within λέγω
+μη|193|275
+ξένος1|97|530|maybe just need to drop the 1
+ὁδός2|135|387
+ὅλοξ|56|925
+ὁλοσχερής|60|875|rank 3603 in Diorisis
+ὁμοῖος|68|771
+ὅτι1|66|791|maybe just need to drop the 1
+οὔ|137|382
+πάρειμι1|457|116|maybe just need to drop the 1
+πέρ|57|912|Diorisis also has this in top 1000
+περίειμι1|75|696|maybe just need to drop the 1
+πλοῦτος1|63|823|maybe just need to drop the 1
+ποιόω|69|756
+πολίτευμα|67|780|rank 2417 in Diorisis
+ποτέ|360|155|Diorisis also has this in top 1000
+πού|121|432|Diorisis also has this in top 1000
+πρεσβευτής|74|708|rank 1314 in Diorisis
+προαίρεσις|72|729|Diorisis also has this in top 1000
+προίστημι|88|587|rank 1216 in Diorisis
+πρόσειμι1|87|597|maybe just need to drop the 1
+πῶς2|130|402
+σοι|98|524
+στρατοπεδεία|63|823|rank 3555 in Diorisis
+συγγραφεύς|60|875|rank 1515 in Diorisis
+σύγκλητος|62|841|range 1528 in Diorisis
+σύνειμι1|73|720|maybe just need to drop the 1
+σώζω|185|288|Diorisis also has this in top 1000; we spell it σῴζω
+ὕπατος|166|318|Diorisis also has this in top 1000
+ὑπεναντίος|94|550|rank 2156 in Diorisis
+χάραξ|57|912|rank 1384 in Diorisis
+χορηγία|61|858|rank 2968 in Diorisis
+ψηφίζομαι|53|975|Diorisis also has this in top 1000
