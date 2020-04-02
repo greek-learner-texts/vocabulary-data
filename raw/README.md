@@ -26,3 +26,5 @@ This is raw, unprocessed data from other sources.
 * `campbell-minus-gltp5000.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) and shows Campbell entries not in GLTP5000; prepared by James Tauber very recently with the help of Seumas Macdonald
 * `gorman-extras.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) and shows entries in the top 1000 Gorman lemmas not in the GLTP5000; prepared by James Tauber
 * `diorisis-extras.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) and shows entries in the top 1000 Diorisis lemmas not in the GLTP5000; prepared by James Tauber
+---
+* `ge-headwords.txt` headwords previously extracted from Brill GE by James Tauber
