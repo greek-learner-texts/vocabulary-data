@@ -32,3 +32,9 @@ This is raw, unprocessed data from other sources.
 * `ge-dcthree.csv` comes from `brill-headwords.csv` in [dcthree/ancient-greek-lexica](https://github.com/dcthree/ancient-greek-lexica); extracted by Ryan Baumann
 * `lsj-dcthree.csv` comes from `lsj-headwords.csv` in [dcthree/ancient-greek-lexica](https://github.com/dcthree/ancient-greek-lexica); extracted by Ryan Baumann
 * `dcthree-headwords.json` comes from `headwords.json` in [dcthree/ancient-greek-lexica](https://github.com/dcthree/ancient-greek-lexica); prepared by Ryan Baumann
+---
+* `core-gnt-gloss-overrides.json` comes from [jtauber/core-gnt-vocab](https://github.com/jtauber/core-gnt-vocab); done by James Tauber
+* `gnt-core-50.tsv` comes from `lemma_50.tsv` in [jtauber/core-gnt-vocab](https://github.com/jtauber/core-gnt-vocab); done by James Tauber
+* `gnt-core-80.tsv` comes from `lemma_80.tsv` in [jtauber/core-gnt-vocab](https://github.com/jtauber/core-gnt-vocab); done by James Tauber
+* `gnt-core-90.tsv` comes from `lemma_90.tsv` in [jtauber/core-gnt-vocab](https://github.com/jtauber/core-gnt-vocab); done by James Tauber
+* `gnt-core-95.tsv` comes from `lemma_95.tsv` in [jtauber/core-gnt-vocab](https://github.com/jtauber/core-gnt-vocab); done by James Tauber
