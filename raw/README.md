@@ -30,3 +30,4 @@ This is raw, unprocessed data from other sources.
 * `ge-headwords.txt` headwords previously extracted from Brill GE by James Tauber
 ---
 * `ge-dcthree.csv` comes from `brill-headwords.csv` in [dcthree/ancient-greek-lexica](https://github.com/dcthree/ancient-greek-lexica); extracted by Ryan Baumann
+* `lsj-dcthree.csv` comes from `lsj-headwords.csv` in [dcthree/ancient-greek-lexica](https://github.com/dcthree/ancient-greek-lexica); extracted by Ryan Baumann
