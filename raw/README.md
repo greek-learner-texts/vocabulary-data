@@ -28,3 +28,5 @@ This is raw, unprocessed data from other sources.
 * `diorisis-extras.txt` comes from [5000 Greek Words](https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit#gid=0) and shows entries in the top 1000 Diorisis lemmas not in the GLTP5000; prepared by James Tauber
 ---
 * `ge-headwords.txt` headwords previously extracted from Brill GE by James Tauber
+---
+* `ge-dcthree.csv` comes from `brill-headwords.csv` in [dcthree/ancient-greek-lexica](https://github.com/dcthree/ancient-greek-lexica); extracted by Ryan Baumann
