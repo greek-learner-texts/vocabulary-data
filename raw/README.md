@@ -38,3 +38,10 @@ This is raw, unprocessed data from other sources.
 * `gnt-core-80.tsv` comes from `lemma_80.tsv` in [jtauber/core-gnt-vocab](https://github.com/jtauber/core-gnt-vocab); done by James Tauber
 * `gnt-core-90.tsv` comes from `lemma_90.tsv` in [jtauber/core-gnt-vocab](https://github.com/jtauber/core-gnt-vocab); done by James Tauber
 * `gnt-core-95.tsv` comes from `lemma_95.tsv` in [jtauber/core-gnt-vocab](https://github.com/jtauber/core-gnt-vocab); done by James Tauber
+---
+* `morphgnt-lexemes.yaml` comes from `lexemes.yaml` in [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings)
+* `canonical-strongs.yaml` comes from [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings)
+* `morphgnt-conflation-sets.txt` comes from `conflation-sets.txt` in [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings)
+* `morphgnt-lexeme-differences.yaml` comes from `differences.yaml` in [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings)
+* `morphgnt-lexeme-notes.md` comes from `NOTES.md` in [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings)
+* `nestle-match.txt` comes from [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings)
