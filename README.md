@@ -7,21 +7,24 @@ consolidating vocabulary data relevant to the Greek Learner Texts Project
 
 These GitHub repositories:
 
+* https://github.com/jtauber/major80/ (private) — now fully incorporated in to `raw/` directory
+* https://github.com/morphgnt/morphological-lexicon
+* https://github.com/morphgnt/data-cleanup (private)
 * https://github.com/jtauber/core-gnt-vocab
 * https://github.com/jtauber/greek-lemma-mappings
-* https://github.com/morphgnt/morphological-lexicon
-* https://github.com/jtauber/major80/ (private) — now fully incorporated in to `raw/` directory
 * https://github.com/jtauber/lsj-headwords (private)
-* https://github.com/jtauber/greek-vocab-assessment (private)
-* https://github.com/morphgnt/data-cleanup (private)
 
 and this spreadsheet:
 
 * https://docs.google.com/spreadsheets/d/1ke7JuFd5iy7bPSCHutgRYFvjDbcSScABld4zwEvDb-s/edit?usp=sharing
 
-Also potentially:
+and also:
 
 * https://github.com/dcthree/ancient-greek-lexica
+* https://github.com/translatable-exegetical-tools/Abbott-Smith
+* https://github.com/openscriptures/GreekResources
+
+The raw data from these sources can be found in `raw/`.
 
 
 ## Terminology
