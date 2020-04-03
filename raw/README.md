@@ -45,3 +45,6 @@ This is raw, unprocessed data from other sources.
 * `morphgnt-lexeme-differences.yaml` comes from `differences.yaml` in [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings); done by James Tauber
 * `morphgnt-lexeme-notes.md` comes from `NOTES.md` in [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings); done by James Tauber
 * `nestle-match.txt` comes from [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings); done by James Tauber incorporating work by Ulrik Sandborg-Petersen
+---
+* `dik-90.tsv` is the Dik 90% list from <https://classics.uchicago.edu/files/ninetypercentA4.pdf> produced by Helma Dik and de-PDF'd by James Tauber
+* `dik-90-unicode.tsv` is the conversion of the above to UTF-8 using `scripts/convert-dik.py`
