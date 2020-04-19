@@ -48,3 +48,7 @@ This is raw, unprocessed data from other sources.
 ---
 * `dik-90.tsv` is the Dik 90% list from <https://classics.uchicago.edu/files/ninetypercentA4.pdf> produced by Helma Dik and de-PDF'd by James Tauber
 * `dik-90-unicode.tsv` is the conversion of the above to UTF-8 using `scripts/convert-dik.py`
+---
+* `ocr-gcse-dvl.tsv` is the defined vocabulary list for the OCR GCSE Classical Greek J292 qualification, downloaded from the OCR wesite
+* `ocr-gcse-rvl.tsv` is the restricted vocabulary list for the OCR GCSE Classical Greek J292 qualification, downloaded from the OCR wesite
+* `ocr-as-dvl.tsv` is the defined vocabulary list for the OCR AS Classical Greek H044 qualification, downloaded from the OCR wesite
