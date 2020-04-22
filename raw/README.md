@@ -1,4 +1,5 @@
-This is raw, unprocessed data from other sources.
+This is raw, unprocessed data from other sources. When a file has been fully processed and included in
+another file outside of `raw/`, it's moved under `RETIRED/`.
 ---
 * `Beresford.glossary` comes from [seumasjeltzz/Beresford](https://github.com/seumasjeltzz/Beresford) and was keyed by Fergus Walsh
 ---
@@ -47,7 +48,7 @@ This is raw, unprocessed data from other sources.
 * `nestle-match.txt` comes from [jtauber/greek-lemma-mappings](https://github.com/jtauber/greek-lemma-mappings); done by James Tauber incorporating work by Ulrik Sandborg-Petersen
 ---
 * `dik-90.tsv` is the Dik 90% list from <https://classics.uchicago.edu/files/ninetypercentA4.pdf> produced by Helma Dik and de-PDF'd by James Tauber
-* `dik-90-unicode.tsv` is the conversion of the above to UTF-8 using `scripts/convert-dik.py`
+* `dik-90-unicode.tsv` is the conversion of the above to UTF-8 using `scripts/RETIRED/convert-dik.py`
 ---
 * `ocr-gcse-dvl.tsv` is the defined vocabulary list for the OCR GCSE Classical Greek J292 qualification, downloaded from the OCR wesite
 * `ocr-gcse-rvl.tsv` is the restricted vocabulary list for the OCR GCSE Classical Greek J292 qualification, downloaded from the OCR wesite
